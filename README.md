@@ -16,8 +16,9 @@ Download the latest version of NEXA TOPUP STORE for Android.
 
 👉 [**Download Latest APK**](https://github.com/CodeDx902/Nexa-store/releases/download/Nexa/app-debug.apk)
 
-##💢 [**visit also website**]
-(https://nexa-top.netlify.app/)
+### 💢 visit also website
+
+👉(https://nexa-top.netlify.app/)
 
 
 ## ✨ Features
